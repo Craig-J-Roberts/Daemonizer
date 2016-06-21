@@ -1,0 +1,17 @@
+{
+    "name": "cjr/daemonizer",
+    "description": "Simple PHP library to create daemons",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Craig Roberts",
+            "email": "cjr@craigroberts.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "cjr\\Daemonizer\\": "src/"
+        }
+    }   
+}

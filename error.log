@@ -1,0 +1,1 @@
+PHP Fatal error:  Call to undefined function cjr\Daemonizer\postix_kill() in /home/cjr/NetBeansProjects/Daemonizer/src/Daemon.php on line 233
